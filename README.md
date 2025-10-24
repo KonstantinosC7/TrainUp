@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/TrainUp.png" alt="TrainUp — Internship & Training Placement" width="360">
+  <img src="/assets/TrainUp.png" alt="TrainUp — Internship & Training Placement" width="360">
   <br>
   <sub><em>Web app that connects students, companies, and universities for internships & training programs.</em></sub>
 </p>
