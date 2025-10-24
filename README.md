@@ -139,3 +139,9 @@ CREATE DATABASE trainup CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 CREATE USER 'trainup_user'@'%' IDENTIFIED BY 'strong_password';
 GRANT ALL PRIVILEGES ON trainup.* TO 'trainup_user'@'%';
 FLUSH PRIVILEGES;
+```
+
+
+### License
+
+This project is for academic purposes
