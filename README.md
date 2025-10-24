@@ -59,7 +59,7 @@ It bridges **Students**, **Companies**, and **University Staff** with clean role
 <table>
   <tr>
     <td width="52%">
-      <img src="assets/architecture.png" alt="Architecture Diagram" width="100%">
+      <img src="assets/architecture.jpg" alt="Architecture Diagram" width="100%">
       <p align="center"><sub>High-level Architecture</sub></p>
     </td>
     <td width="48%" valign="top">
