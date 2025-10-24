@@ -11,7 +11,7 @@
   <a href="#features">Features</a> •
   <a href="#architecture--tech">Architecture & Tech</a> •
   <a href="#screenshots">Screenshots</a> •
-  <a href="#quickstart-dev">Quickstart</a>
+  <a href="#quickstart-dev">Quickstart</a>•
   <a href="#Licence">Licence</a>
 </p>
 
