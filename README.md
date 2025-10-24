@@ -139,7 +139,7 @@ It bridges **Students**, **Companies**, and **University Staff** with clean role
 ### Prereqs
 - **JDK 17+**
 - **Maven 3.8+**
-- **MySQL 8.x** (ή MariaDB)
+- **MySQL 8.x**
 
 ### 1) Database
 Create DB & user (example names; adjust as needed):
