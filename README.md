@@ -83,16 +83,15 @@ It bridges **Students**, **Companies**, and **University Staff** with clean role
 <table>
   <tr>
     <td width="52%">
-      <img src="assets/positions-list.png" alt="Positions list for Students" width="100%">
-      <p align="center"><sub>Positions list — browse & apply.</sub></p>
+      <img src="assets/Student-Profile.jpg" alt="Student Portal — Profile & Dashboard" width="100%">
+      <p align="center"><sub>Student Portal — profile, academics, skills & interests.</sub></p>
     </td>
     <td width="48%" valign="top">
 
-- Table with **Title / Company / Location / Skills / Action**.
-- Quick filters & search bar.
-- Each title links to a **details** page.
-- **Apply** button per row (with confirmation).
-- Footer links: **Back**, **My Applications**.
+- Κάρτες: **Personal Information**, **Academic Information**, **Skills**, **Interests**.
+- Προφίλ φοιτητή με email, bio και κουμπί **Edit Profile**.
+- Quote banner στην κορυφή για τα traineeships.
+- Κεντρικές ενέργειες: **View Available Traineeships**, **Manage My Traineeship Logbook**.
 
     </td>
   </tr>
@@ -101,19 +100,37 @@ It bridges **Students**, **Companies**, and **University Staff** with clean role
 <table>
   <tr>
     <td width="52%">
-      <img src="assets/company-applications.png" alt="Company view of applications" width="100%">
-      <p align="center"><sub>Company Dashboard — applications per position.</sub></p>
+      <img src="assets/domain-page.jpg" alt="Landing page — Welcome & Auth" width="100%">
+      <p align="center"><sub>Landing page με λογότυπο, σύντομο intro και επιλογές σύνδεσης/εγγραφής.</sub></p>
     </td>
     <td width="48%" valign="top">
 
-- Overview: **Applicant / Skills / Status / Actions**.
-- Status transitions: **Review → Interview → Offer/Reject**.
-- **View Profile** & **Download CV** actions.
-- Export CSV, pagination, and quick filters.
+- Καλωσόρισμα: “Welcome to the Traineeship Management Web Application”.
+- Σύντομο tagline για **Explore, connect, and grow!**
+- Κουμπιά **Login** & **Register** για γρήγορη έναρξη.
+- Minimal layout που οδηγεί στη ροή αυθεντικοποίησης.
 
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="52%">
+      <img src="assets/Logbook.jpg" alt="Traineeship Logbook — Update entry" width="100%">
+      <p align="center"><sub>Διαχείριση Logbook — στοιχεία θέσης & επεξεργασία καταχώρισης.</sub></p>
+    </td>
+    <td width="48%" valign="top">
+
+- Πλαϊνή σύνοψη θέσης: **Company**, **Supervisor**, **Dates**, **Required Skills**, **Topics**.
+- Φόρμα **Logbook Entry** για ημερολόγιο πρακτικής.
+- Ενέργειες: **Update logbook** και **Cancel**.
+- Σαφής διάκριση ενημερωτικών πεδίων και editable περιεχομένου.
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
