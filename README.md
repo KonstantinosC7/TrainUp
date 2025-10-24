@@ -12,6 +12,7 @@
   <a href="#architecture--tech">Architecture & Tech</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#quickstart-dev">Quickstart</a>
+  <a href="#Licence">Licence</a>
 </p>
 
 ---
@@ -139,9 +140,14 @@ CREATE DATABASE trainup CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 CREATE USER 'trainup_user'@'%' IDENTIFIED BY 'strong_password';
 GRANT ALL PRIVILEGES ON trainup.* TO 'trainup_user'@'%';
 FLUSH PRIVILEGES;
+
+spring.jpa.hibernate.ddl-auto=update   # dev only; use validate/create for other stages
+spring.jpa.show-sql=true
+spring.thymeleaf.cache=false
+server.port=8080
 ```
 
 
-### License
+## License
 
-This project is for academic purposes
+This project is for academic purposes.
