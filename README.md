@@ -33,15 +33,12 @@ It bridges **Students**, **Companies**, and **University Staff** with clean role
 - Register/Login & profile (skills, interests, CV link).
 - Browse **open positions** by company/category/skills.
 - **Apply** with one click; see **application status** & history.
-- Save favorites / continue later.
 - Notifications on **status change** (accepted/rejected/offer).
 
 ### 🏢 Company
 - Secure login & company profile (description, website, contact).
 - **CRUD** on **Positions** (title, description, location, duration, capacity, skills).
 - Review incoming **applications** per position.
-- Change status: _Under Review → Interview → Offer/Reject_.
-- Export basic reports (e.g., CSV list of candidates).
 
 ### 🏛️ Admin / Staff
 - User management (activate/disable, reset roles).
@@ -54,11 +51,6 @@ It bridges **Students**, **Companies**, and **University Staff** with clean role
 - Role-based UI: `ROLE_STUDENT`, `ROLE_COMPANY`, `ROLE_ADMIN` (επεκτάσιμο).
 - Server-side validation & friendly error pages.
 
-### 🧭 Usability
-- **Search & filters** (category, skills, company, location).
-- Pagination on heavy lists.
-- Clear call-to-actions (Apply, Withdraw, Manage).
-- Consistent navigation between lists and details.
 
 ---
 
@@ -78,7 +70,6 @@ It bridges **Students**, **Companies**, and **University Staff** with clean role
 - **JPA/Hibernate** over **MySQL** (or MariaDB).
 - **Maven** for build & dependency management.
 - Layered design: `controller → service → repository → entity`.
-- DTOs & validation for clean forms.
 - Conventional packaging under `src/main/java` and `templates/`.
 
     </td>
